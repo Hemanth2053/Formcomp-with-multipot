@@ -1,0 +1,40 @@
+.maincomp{
+    background-color: rgb(46, 46, 46);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+.firstcont{
+    padding-top: 200px;
+    height: 100vh;
+    width: 45%;
+}
+.secondcont{
+    padding-top: 200px;
+    height: 100vh;
+    width: 45%;
+}
+.signupbtn{
+    background-color: black;
+    font-size: 17px;
+    color: white;
+    height: 35px;
+    width: 150px;
+    border-radius: 15px;
+    border: none;
+}
+.btnSignin{
+    background-color: rgb(194, 65, 65);
+    font-size: 17px;
+    color: black;
+    height: 35px;
+    width: 150px;
+    border-radius: 15px;
+    border: none;
+}

@@ -1,0 +1,35 @@
+.component{
+    background-color: cadetblue;
+    height: 100vh;
+    width: 100%;
+}
+.formcomponent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inputcomponent{
+    height: 30px;
+    width: 350px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.buttncont{
+    display: flex;
+    flex-direction: row;
+}
+.btncomponent{
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    margin: 30px;
+    background-color: black;
+    color: white;
+}
+.hypercomponent{
+    font-style: unset;
+    padding-left: 350px;
+    /* margin-top: 150px; */
+}
